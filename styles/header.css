@@ -135,9 +135,7 @@ background-color: var(--branco);
     padding: 2em 1em;
 }
 
-.lista-menu {
-    display: block;
-}
+
 
 .lista-menu__item:hover {
     background: var(--azul-degrade); 
